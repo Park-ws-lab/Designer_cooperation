@@ -1,33 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-.Banner {
-    width: 1920px;
-    height: 60px;
-    background-color: none;
-    position:fixed;
-    top:0;
-    left: 0;
-    right: 0;
+.ikea_food .button1:hover{
+    color:white;
 }
-#Banner_Icon{
-    width: 150px;
-    height: 60px;
-    padding-top: 0px;
-    margin-top:0px;
-    margin-left: 255px;
-    opacity: 1;
-}
-.Banner li{
-    float: left;
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    margin:0 100px 0 0;
-}
-.Banner .Other{
-    padding-top: 19px;
-    height: 60px;
-}
-.Banner .Other:hover{
-    box-sizing: border-box;
-    border-bottom : 2px solid black;
+.catalogue .button1:hover{
+    color:white;
 }

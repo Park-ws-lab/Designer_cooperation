@@ -1,0 +1,29 @@
+.home_furnishing_idea {
+    width: 1920px;
+    height: 1220px;
+    background-color: #FAFAFA;
+    margin-bottom: 100px;
+}
+.button1 {
+    position: absolute;
+    margin-left: 312px;
+    margin-top: -230px;
+}
+.button1:hover+.box1{
+    display: block;
+}
+.button2 {
+    position: absolute;
+    margin-left: 709px;
+    margin-top: -332px;
+}
+.button3 {
+    position: absolute;
+    margin-left: 907px;
+    margin-top: -66px;
+}
+.button4 {
+    position: absolute;
+    margin-left: 1430px;
+    margin-top: -213px;
+}

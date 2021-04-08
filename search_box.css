@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@800&display=swap');
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap);
+
+.search_box {
+    margin: 0 0 100px 0;
+    padding:0;
+    position: relative;
+    width: 1920px;
+    height: 801px;
+}
+.search_box img {
+    filter:brightness(70%);
+}
+
+.search_box .center_elements{
+    position: absolute;
+    font-size: 40px;
+    color: white;
+    font-family: 'Jost', sans-serif;
+    margin:-500px 0 0 595px;
+    padding:0;
+    text-align: center;
+}
+.input_box {
+    width: 681px;
+    height: 67px;
+    padding-right: 25px;
+    padding-left:25px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 21px;
+    color: #898989;
+}
+.checkbox_css{
+    font-size: 16px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: lighter;
+    margin-top:20px
+}
